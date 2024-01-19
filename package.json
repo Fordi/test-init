@@ -1,0 +1,10 @@
+{
+  "name": "@fordi-org/test-init",
+  "version": "1.0.3",
+  "description": "Quick setup for minimalist native testing with coverage",
+  "type": "module",
+  "bin": {
+    "@fordi-org/test-init": "bin/init.js"
+  },
+  "license": "ISC"
+}
