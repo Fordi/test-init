@@ -1,10 +1,21 @@
 {
   "name": "@fordi-org/test-init",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Quick setup for minimalist native testing with coverage",
   "type": "module",
-  "bin": {
-    "@fordi-org/test-init": "bin/init.js"
+  "bin": "bin/init.js",
+  "license": "ISC",
+  "homepage": "https://github.com/Fordi/test-init",
+  "repository": "github:Fordi/test-init",
+  "bugs": {
+    "url": "https://github.com/Fordi/test-init/issues"
   },
-  "license": "ISC"
+  "keywords": [
+    "test",
+    "native",
+    "coverage",
+    "report",
+    "setup"
+  ],
+  "author": "Bryan Elliott <fordiman@gmail.com>"
 }
