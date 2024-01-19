@@ -17,5 +17,8 @@
     "report",
     "setup"
   ],
-  "author": "Bryan Elliott <fordiman@gmail.com>"
+  "author": "Bryan Elliott <fordiman@gmail.com>",
+  "dependencies": {
+    "@fordi-org/scripting": "^1.0.1"
+  }
 }
